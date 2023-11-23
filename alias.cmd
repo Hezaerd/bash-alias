@@ -49,6 +49,7 @@ doskey gpush = git push
 doskey gpushf = git push -f
 doskey gpull = git pullt
 doskey glog = git log
+doskey ggeturl = git ls-remote --get-url origin
 
 @REM useless ?
 doskey quit = exit
