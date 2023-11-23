@@ -48,6 +48,7 @@ doskey gcommit = git commit -m $*
 doskey gpush = git push
 doskey gpushf = git push -f
 doskey gpull = git pullt
+doskey glog = git log
 
 @REM useless ?
 doskey quit = exit
