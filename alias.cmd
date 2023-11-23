@@ -26,6 +26,7 @@ doskey nrd = npm run dev
 doskey nrb = npm run build
 doskey nrs = npm run start
 doskey nr = npm run $*
+doskey ni = npm install $*
 
 @REM github cli
 doskey ghlist = gh repo list
