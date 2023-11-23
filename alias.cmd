@@ -47,7 +47,7 @@ doskey gadd = git add $*
 doskey gcommit = git commit -m $*
 doskey gpush = git push
 doskey gpushf = git push -f
-doskey gpull = git pullt
+doskey gpull = git pull
 doskey glog = git log
 doskey ggeturl = git ls-remote --get-url origin
 
