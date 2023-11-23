@@ -1,0 +1,1 @@
+load(io.popen('oh-my-posh.exe --config="C:/Users/Admin/AppData/Local/Programs/oh-my-posh/themes/spaceship.omp.json" --init --shell cmd'):read("*a"))()
