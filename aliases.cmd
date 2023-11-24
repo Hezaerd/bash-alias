@@ -42,14 +42,14 @@ doskey ghe = gh copilot explain $*
 doskey ghs = gh copilot suggest $*
 
 @REM git
-doskey gstatus = git status
-doskey gadd = git add $*
-doskey gcommit = git commit -m $*
-doskey gpush = git push
-doskey gpushf = git push -f
-doskey gpull = git pull
+doskey gst = git status
+doskey ga = git add $*
+doskey gc = git commit -m $*
+doskey gp = git push
+doskey gpf = git push -f
+doskey gl = git pull
 doskey glog = git log
-doskey ggeturl = git ls-remote --get-url origin
+doskey gurl = git ls-remote --get-url origin
 
 @REM useless ?
 doskey quit = exit
