@@ -34,7 +34,6 @@ doskey ghview = gh browse
 doskey ghclone = gh repo clone $*
 doskey ghnew = gh repo create $* --private
 doskey ghnewp = gh repo create $* --public
-doskey ghnewi = gh repo create $* --internal
 doskey ghrm = gh repo delete $*
 doskey ghrename = gh repo rename $*
 
