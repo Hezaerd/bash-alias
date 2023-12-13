@@ -4,7 +4,7 @@
 doskey cdadmin = cd C:\Users\Admin
 doskey cdrepos = cd C:\Users\Admin\source\00_Repos
 doskey cdclink = cd C:\Program Files (x86)\clink
-doskey cdclinkcf = cd C:\Users\Admin\AppData\Local\clink
+doskey cdcfg = cd C:\Users\Admin\AppData\Local\clink
 
 @REM Trying to be linux
 doskey ls = dir $*
