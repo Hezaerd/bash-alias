@@ -14,6 +14,7 @@ doskey cp = copy $*
 doskey mv = move $*
 doskey rm = del $*
 doskey cat = type $*
+doskey touch = if not exist $1 (copy nul $1)
 
 @REM ip
 doskey ip = ipconfig
