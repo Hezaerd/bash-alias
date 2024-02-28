@@ -125,3 +125,11 @@ match.expand_envvars = True
 # type: boolean
 match.substring = True
 
+# name: Changes the prefix of the aliases
+# type: string
+zoxide.cmd = cd
+
+# name: Use clink promptfilter to hook even if onbegined
+# type: boolean
+zoxide.usepromptfilter = True
+
