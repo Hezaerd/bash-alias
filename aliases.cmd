@@ -57,6 +57,5 @@ doskey quit = exit
 doskey clear = cls
 
 @REM Windows power
-doskey pst = shutdown /s /t $*
-doskey prb = shutdown /r /t $*
-doskey pa = shutdown /a
+doskey preboot = shutdown -r -t $*
+doskey pabort = shutdown -a
